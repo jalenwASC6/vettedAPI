@@ -1,0 +1,13 @@
+
+
+body {
+    background-color: blue;
+}
+
+#bored {
+    list-style-type: none;
+}
+
+#bored h1 {
+    color: white;
+}
